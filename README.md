@@ -1,5 +1,4 @@
-# Listed Challenge - Gmail Auto Response App with the specifications required.
-
+# Listed Challenge - Gmail Auto Response App
 This Node.js application allows you to automate email responses while you're on vacation using the Gmail API. It checks for new emails in a specified Gmail mailbox, sends auto-replies to emails that have no prior replies, adds a label to the replied email, and moves it to the labeled folder. The app runs at random intervals between 45 to 120 seconds.
 
 ## Features
